@@ -1,0 +1,1 @@
+docker run -it rock-paper-scissors
